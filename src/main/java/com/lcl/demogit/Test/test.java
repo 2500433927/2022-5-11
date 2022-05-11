@@ -8,6 +8,6 @@ public class test {
     public static void main(String[] args) {
         System.out.println("first");
         System.out.println("2");
-        System.out.println("master -3 ");
+        System.out.println("3");
     }
 }
